@@ -1,11 +1,7 @@
----
-
 # The Honest Imputer: Robustness and Calibration in Missing Data
-
 **"Complexity is not a proxy for performance."**
 This research demonstrates that for structured datasets—even small ones like the 150-row Iris set—the robustness of the modeling pipeline and proper calibration are far more critical than the complexity of the imputation algorithm.
 
----
 
 ## 🔬 Research Summary
 

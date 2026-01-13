@@ -65,7 +65,7 @@ We didn't just aim for accuracy; we aimed for **truth**. The Brier Score calcula
 
 ### 🛠️ Tech Stack
 
-* **Modeling:** LightGBM, Scikit-Learn
+* **Modeling:** lightGBM, scikit-Learn, feature-engine
 * **Optimization:** Optuna
-* **Calibration:** Isotonic Regression
-* **Metrics:** Multiclass Brier Score, ROC-AUC, Macro F1
+* **Calibration Curve:** Isotonic Regression
+* **Metrics:** Multiclass Brier Score, ROC-AUC, Macro F1,classification report
